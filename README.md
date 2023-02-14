@@ -23,6 +23,9 @@ This is an example of a ~~strike through~~
 <!-- horizontal rule -->
 
 we can add triple hypens to be able to create a horizontal rule for separating content.
+___
+scaping \*character* rule using backslash.
+___
 
 
 
