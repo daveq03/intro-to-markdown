@@ -8,7 +8,7 @@
 
 ---
 <!-- ITALICS -->
-_This is going to be a paragraph that is using italic styling._
+**_This is going to be a paragraph that is using italic styling._**
 
 *This is going to be a paragraph that is using italic styling.*
 
@@ -16,4 +16,6 @@ _This is going to be a paragraph that is using italic styling._
 ---
 <!--Strong-->
 __This__ is an example of **strong text**
+<!-- Strike Through -->
+This is an example of a ~~strike through~~
 
