@@ -27,6 +27,9 @@ ___
 scaping \*character* rule using backslash.
 ___
 
+<!-- Blockqoute rule -->
+> *You don't have to be great to start, but you need to start to be great.*
+
 
 
 
