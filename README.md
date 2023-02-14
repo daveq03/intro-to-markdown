@@ -79,6 +79,10 @@ ___
   
 5. Item 5
 
+<!-- code block inline example -->
+`<p> This is a paragraph tag with an inline code block</p>`
+***NOTE***
+
 
 
 
