@@ -35,6 +35,53 @@ ___
 <!-- Links Rule -->
 [dave facebook profile](https://www.facebook.com/dave.querikiol.39/ "This is Dave facebook account")
 
+---
+<!-- list item rules -->
+<!-- unordered lists -->
+* Item 1
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2 
+* Item 2
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 3
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 4
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 5
+
+<!-- unordered list -->
+1. Item 1
+
+    1.1 This is our list item 1 child item 1
+    
+    1.2 This is our list item 2 child item 2 
+    
+2. Item 2
+
+    2.1 This is our list item 1 child item 1
+  
+    2.2 This is our list item 1 child item 2
+  
+3. Item 3
+
+    3.1 This is our list item 1 child item 1
+  
+    3.2 This is our list item 1 child item 2
+  
+4. Item 4
+
+    4.1 This is our list item 1 child item 1
+  
+    4.2 This is our list item 1 child item 2
+  
+5. Item 5
+
+
+
+
 
 
 
