@@ -14,4 +14,6 @@ _This is going to be a paragraph that is using italic styling._
 
 ---
 ---
+<!--Strong-->
+__This__ is an example of **strong text**
 
